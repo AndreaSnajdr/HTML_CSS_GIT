@@ -3,8 +3,6 @@ html, body {
     font-family: 'Raleway', sans-serif;
 }
 
-/*CELISTVÝ OBRÁZEK POD HLAVIČKOU + MENU*/
-
 header.hlavicka,
 ul.menu {
     position: relative;
